@@ -6,3 +6,5 @@ spring:
     data:
       mongodb: 47.98.131.179
       database: spitdb
+    redis:
+      host: 47.98.131.179
